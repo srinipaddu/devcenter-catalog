@@ -1,0 +1,6 @@
+name: LinuxVM
+version: 1.0.0
+summary: Linux VM with Python Hello World
+description: Deploys an Ubuntu VM and outputs SSH command
+runner: Bicep
+templatePath: main.bicep
